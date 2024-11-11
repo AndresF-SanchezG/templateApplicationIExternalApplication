@@ -14,4 +14,22 @@ To add the references that allow us connect with the Revit API files, we must:
 
 ![image](https://github.com/user-attachments/assets/90a29773-e322-41da-9f32-25833a9b7e17)
 
+## STEP 3 -  Implement the IExternalCommand interface and write code
+
+![image](https://github.com/user-attachments/assets/687b2cb6-4885-485d-8fc2-57668c0caed5)
+
+## STEP 4 - Generate .addin file 
+
+![image](https://github.com/user-attachments/assets/fe0559ec-3f10-4e49-9a22-df29d8b738e8)
+
+## STEP 5 - We check that the app works OK
+
+In this step, we verify that our app works correctly so that we can later set it as a template.
+
+![image](https://github.com/user-attachments/assets/18b5e106-3fca-4cc4-8180-ccbea0389aa4)
+
+
+
+
+
 
