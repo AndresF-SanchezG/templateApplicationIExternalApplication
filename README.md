@@ -57,6 +57,32 @@ To set as a project, we follow these steps
 
   ![image](https://github.com/user-attachments/assets/34923cd1-7e2c-4369-ac9e-24285ca126bd)
 
+  We assign the name of the new application and change the path where the new project will be saved, if desired.
+
+  ![image](https://github.com/user-attachments/assets/78584cab-b86f-480a-83a1-32306e25db8b)
+
+   ## STEP 8 - Modify .addin file
+
+  To create the application, we need to make some modifications to the .addin file.
+
+  We modify the tags Name, Assembly, FullClassName, AddInId, and Text.
+
+  ## STEP 9 - Verify our new Application
+
+  ![image](https://github.com/user-attachments/assets/29646158-1131-4cb0-b399-316e249b8e5e)
+
+  ![image](https://github.com/user-attachments/assets/864d37b4-53a2-4d64-94f3-7ce7742fd758)
+
+
+
+  
+
+  
+
+
+
+  
+
 
 
 
