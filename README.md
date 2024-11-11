@@ -51,6 +51,13 @@ To set as a project, we follow these steps
 
   ![image](https://github.com/user-attachments/assets/e0cf784c-34af-4083-8305-9df028495d04)
 
+  ## STEP 7 - Create a new application from the template
+
+  To use the template, we open a new project in Visual Studio and select our template, which should already appear, or we can search for it if it is not visible.
+
+  ![image](https://github.com/user-attachments/assets/34923cd1-7e2c-4369-ac9e-24285ca126bd)
+
+
 
 
 
