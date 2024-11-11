@@ -28,6 +28,21 @@ In this step, we verify that our app works correctly so that we can later set it
 
 ![image](https://github.com/user-attachments/assets/18b5e106-3fca-4cc4-8180-ccbea0389aa4)
 
+## STEP 6 - Set as template
+
+To set as a project, we follow these steps
+
+ - Proyecto
+   - Establecer como plantilla
+
+![image](https://github.com/user-attachments/assets/83f30d0e-cd8d-4c03-86be-9f091855c4fb)
+
+ - Select Plantilla de proyecto
+
+![image](https://github.com/user-attachments/assets/e468cf9a-86eb-4b73-8842-6727903632c8)
+
+
+
 
 
 
