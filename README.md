@@ -33,13 +33,21 @@ In this step, we verify that our app works correctly so that we can later set it
 To set as a project, we follow these steps
 
  - Proyecto
-   - Establecer como plantilla
+   - Exportar plantilla
 
 ![image](https://github.com/user-attachments/assets/83f30d0e-cd8d-4c03-86be-9f091855c4fb)
 
  - Select Plantilla de proyecto
 
 ![image](https://github.com/user-attachments/assets/e468cf9a-86eb-4b73-8842-6727903632c8)
+
+- Complete required fields
+
+  In this case, we only complete the first two fields; however, an image can be added for the icon if desired.
+
+  ![image](https://github.com/user-attachments/assets/704efbab-4fb3-487c-9ee0-e50886d3dd9b)
+
+
 
 
 
