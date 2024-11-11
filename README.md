@@ -8,3 +8,10 @@ Through of the editor code VISUAL STUDIO CODE we choose the framework 4.8 to use
 
 ![image](https://github.com/user-attachments/assets/fe10c8e2-2cd1-4cdf-b02b-3c1ba45067a4)
 
+## STEP 2 - Add Revit references
+
+To add the references that allow us connect with the Revit API files, we must:
+
+![image](https://github.com/user-attachments/assets/90a29773-e322-41da-9f32-25833a9b7e17)
+
+
