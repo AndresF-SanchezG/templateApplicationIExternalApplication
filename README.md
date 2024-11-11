@@ -47,6 +47,11 @@ To set as a project, we follow these steps
 
   ![image](https://github.com/user-attachments/assets/704efbab-4fb3-487c-9ee0-e50886d3dd9b)
 
+  Once we press finish, the template is created and we are directed to the folder where it was saved.
+
+  ![image](https://github.com/user-attachments/assets/e0cf784c-34af-4083-8305-9df028495d04)
+
+
 
 
 
