@@ -67,6 +67,9 @@ To set as a project, we follow these steps
 
   We modify the tags Name, Assembly, FullClassName, AddInId, and Text.
 
+  ![image](https://github.com/user-attachments/assets/7cdded13-bbb5-49d4-9d0f-8646c595b7c1)
+
+
   ## STEP 9 - Verify our new Application
   
 
